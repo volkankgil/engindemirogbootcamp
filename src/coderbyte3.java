@@ -50,4 +50,9 @@ public class coderbyte3 {
         }
         return sonuc;
     }
+
+    public static void main(String[] args) {
+        int []list={10,23,41,23};
+        System.out.println(SumMultiplier(list));
+    }
 }

@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 import java.util.Scanner;
-=======
+
 import java.util.*;
->>>>>>> bb94daa (ilk hafta ödevler ve ders)
+
 
 public class miniproje1 {
     public static void main(String[] args) {
